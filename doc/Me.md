@@ -38,4 +38,7 @@ https://blog.csdn.net/weixin_40652340/article/details/78547092
 
 #### 6、Jvm
 
+https://baijiahao.baidu.com/s?id=1606480770208000096&wfr=spider&for=pc
+
 #### 7、Jvm GC算法
+
