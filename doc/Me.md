@@ -32,9 +32,9 @@ https://blog.csdn.net/qq_34764487/article/details/78003101
 
 #### 5、MR的shuffle过程
 
+https://blog.csdn.net/qq_35181209/article/details/75014111
+
 https://blog.csdn.net/weixin_40652340/article/details/78547092
-
-
 
 #### 6、Jvm
 
