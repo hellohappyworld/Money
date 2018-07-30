@@ -26,7 +26,11 @@ try{}catch(){}finall{},finally的作用一般用于必须处理的事情，如�
 
 #### 4、简述mapreduce原理
 
-[https://blog.csdn.net/qq_34764487/article/details/78003101]: 
+[https://www.cnblogs.com/ywx-vashon/p/4895734.html]: 老版本
+
+
+
+[https://blog.csdn.net/qq_34764487/article/details/78003101]: 新版本
 
 
 
