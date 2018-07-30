@@ -36,6 +36,10 @@ try{}catch(){}finall{},finally的作用一般用于必须处理的事情，如�
 
 #### 5、MR的shuffle过程
 
+[https://blog.csdn.net/weixin_40652340/article/details/78547092]: 
+
+
+
 #### 6、Jvm
 
 #### 7、Jvm GC算法
